@@ -1,4 +1,4 @@
-### Instrucciones detalladas para construir el circuito con Arduino Nano, RFID-RC522, servomotor, LED y fotorresistencia
+### Instrucciones detalladas para construir el circuito Mini-Cerradura Inteligente con Arduino Nano, RFID-RC522, servomotor, LED y fotorresistencia
 
 #### Materiales necesarios:
 - 1 Arduino Nano
